@@ -1,0 +1,9 @@
+{
+    "settings": [
+        {
+            "lenght" : 15,
+            "numbers" : true, 
+            "cap_words" : false
+        }
+    ]
+}
